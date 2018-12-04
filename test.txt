@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sdffs
 111111sdffsddfdf
+=======
+sdfsdf
+>>>>>>> cb2285d04f862b78dab7a1398d0ffc87d2e976b9
