@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 OOO
+=======
+ooo
+>>>>>>> add file o.txt
